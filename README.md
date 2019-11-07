@@ -9,21 +9,21 @@ An office simulation using queues and linked lists to model students, windows, a
   * Assignment or Exercise Number: Assignment 4
 
 ### 2. A LIST OF ALL SOURCE FILED SUBMITTED FOR THIS ASSIGNMENT
-  * main.cpp
-  * GenStack.cpp
-  * Makefile
-  * README.md
+  * DoublyLinkedList.h
+  * GenQueue.h
+ * ListNode.h
+ * main.cpp
+ * Makefile
+ * Office.cpp
+ * Office.h
+ * README.md
+ * Student.cpp
+ * Student.h
+ * Window.cpp
+ * Window.h
 
-### 3. A DESCRIPTION OF ANY KNOWN COMPILE OR RUNTIME ERRORS, CODE LIMITATIONS, OR DEVIATIONS FROM ASSIGNMENT SPECIFICATIONS (IF APPLICABLE)
-  * Assumes (), {}, [] to be the only 3 types of delimiters
-
-### 4. A LIST OF ALL REFERENCES USED TO COMPLETE THE ASSIGNMENT, INCLUDING PEERS (IF APPLICABLE)
-  * Templates - https://www.geeksforgeeks.org/templates-cpp/
-  * .get Method - http://www.cplusplus.com/reference/istream/istream/get/
-  * Throw code - https://stackoverflow.com/questions/5378677/what-does-a-single-throw-statement-do
-
-### 5. INSTRUCTIONS FOR RUNNING THE ASSIGNMENT
+### 3. INSTRUCTIONS FOR RUNNING THE ASSIGNMENT
   * 1. Run ‘make all’ from terminal
-  * 2. Run ‘./assignment3.out’
+  * 2. Run ‘./assignment4.out’
   * 3. Follow the instructions given by the program
 
